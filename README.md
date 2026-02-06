@@ -32,4 +32,9 @@
 <div align="center" border="0">
       <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDk0b2d6ZXhmeHJ4YWZmeXA5ZHRlcWYzcHk3NTU4dGlkam1kaDU5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1kkxWqT5nvLXupUTwK/giphy.gif" width="400"/>
 </div>
+<h3>Contacto: 📥 
+  <a href="mailto:harc2305@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+  </a>
+</h3>
 
